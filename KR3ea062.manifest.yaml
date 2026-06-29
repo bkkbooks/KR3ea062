@@ -1,0 +1,59 @@
+canonical_identifier: bkk:krp/KR3ea062/v1
+canonical_location: https://kanripo.org/bkk/KR3ea062/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 難經疏證
+  identifiers:
+    krp: KR3ea062
+  tags:
+    kr-categories: KR3ea
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ea062.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ea062_000.yaml, hash: 'sha256:0aa7c6c6c53c4781066d17acc09a4d94990038a774989308e292262dc1dbd257'}
+  - {seq: 81, filename: KR3ea062_081.yaml, hash: 'sha256:3a705ad551f940ba67c159bbd58b9ebb044116668454047951ed083715365f3a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ea062_000.markers.yaml, hash: 'sha256:25f55c1ab47e48125d772dbe5094aa59dc8be3ff5fc8424e913aa8f167daae6a'}
+  - {seq: 81, role: markers, filename: assets/KR3ea062_081.markers.yaml, hash: 'sha256:21416ea9a6aed4d392cc0e8c3b408cc2a9369eacfdb9984ab2a0d6e09986cc7c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ea062_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 2856
+  label: 黃帝八十一難經解題
+  type: section
+  level: 1
+- ref:
+    seq: 81
+    marker_id: KR3ea062_jc_081-d3.h1s1
+    span:
+    - body
+    - 0
+    - 23447
+  label: 黃帝八十一難經疏證卷上
+  type: section
+  level: 1
+- ref:
+    seq: 81
+    marker_id: KR3ea062_jc_081-d4.h1s1
+    span:
+    - body
+    - 23447
+    - 48173
+  label: 黃帝八十一難經疏證卷下
+  type: section
+  level: 1
+hash: sha256:c331035502ef6cca6d724b9907c14e598875cf194c6cc318d31e6c3957ab58ba
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
