@@ -20,7 +20,7 @@ assets:
   - {seq: 0, filename: KR3ea062_000-jc.yaml, hash: 'sha256:9bc1346419a5e69e4375804a5fc2eab9a4c8c4e7d75a6c36eebda5ece0777929'}
   - {seq: 81, filename: KR3ea062_081-jc.yaml, hash: 'sha256:43143dedb41e21c2aa987c27720702d6b20ddfe08ee15b3f6c16cc5df2ca254c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ea062_000-jc.markers.yaml, hash: 'sha256:213b20ef0a198e3b30554cfa1ed6c21c8e5d76ee123be847101cc486c01f9862'}
+  - {seq: 0, role: markers, filename: assets/KR3ea062_000-jc.markers.yaml, hash: 'sha256:9df4ed48e3c4d674704b50d37adbc69c3aaad366e38a902aa32672b4ae501ceb'}
   - {seq: 81, role: markers, filename: assets/KR3ea062_081-jc.markers.yaml, hash: 'sha256:c10baab8cd667d1c952b765542d91c21274e0a396d9f9abf747ae10f9d99de43'}
 table_of_contents:
 - ref:
@@ -53,4 +53,4 @@ table_of_contents:
   label: 黃帝八十一難經疏證卷下
   type: section
   level: 1
-hash: sha256:8a8a9fb68170cbbb4c2b2b17b3472311ad874abae9bfc25ecaaab3610ff17995
+hash: sha256:e89f45770c31e4b1e27baef8909694c184e31ae58a0bcc1b947ea85b11c66398

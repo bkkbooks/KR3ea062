@@ -20,7 +20,7 @@ assets:
   - {seq: 0, filename: KR3ea062_000.yaml, hash: 'sha256:6027fceaa125a7444386b0f50038686d86f401bfedee3337f8f60eb4be6c0674'}
   - {seq: 81, filename: KR3ea062_081.yaml, hash: 'sha256:c86e59f53546b9b0389f301e0990ade4ef4012f13f9182892bab6b1d2cdacdbd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ea062_000.markers.yaml, hash: 'sha256:280a6fbb5f46ddabd25138dae7b9398ecb5401f207720e43483e093da89c1862'}
+  - {seq: 0, role: markers, filename: assets/KR3ea062_000.markers.yaml, hash: 'sha256:59766655a8955f37fbcebafcbf398a3046159d73403e2b37feea1cfabd2f9194'}
   - {seq: 81, role: markers, filename: assets/KR3ea062_081.markers.yaml, hash: 'sha256:719b6fe9232bdc6ec031ff8ad5eb15734273bce19b6468a244c297317f7d8820'}
 table_of_contents:
 - ref:
@@ -53,7 +53,7 @@ table_of_contents:
   label: 黃帝八十一難經疏證卷下
   type: section
   level: 1
-hash: sha256:36c74ffe0e7783a50b0b69d989ac9b6c56a3a7bcf9d4671bbb16553f09464c57
+hash: sha256:190a83530f599ce412df84eeda9204fab615f53eb5307410baf5e1d6233b477f
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
